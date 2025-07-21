@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+ /* npx tailwindcss/cli -i ./src/input.css -o ./dist/style.css --watch   */
+
+ /* "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+   }, */
+
+/* npm run dev --> for running tailwind */
